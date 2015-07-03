@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<Form>
+    <Name>ZgByAG0ATQBhAGkAbgA=</Name>
+    <Text>TQB5ACAAUgBlAG0AaQBuAGQAZQByAA==</Text>
+    <MenuStrip>
+      <Item1>
+        <ItemName>VADHHnAA</ItemName>
+        <Child1>UABoAOUeYwAgAGgA0x5pAA==</Child1>
+        <Child2>UwBhAG8AIABsALABdQA=</Child2>
+        <Child3>VAD5AHkAIABjAGgAyR5uAGgA</Child3>
+        <Child4>VABoAG8A4QB0AA==</Child4>
+      </Item1>
+      <Item2>
+        <ItemName>WABlAG0A</ItemName>
+        <Child1>SABpAMMebgAgAHQAaADLHiAAbgBoAK8eYwAgAG4AaADfHiAAdAByAG8AbgBnACAAbgBnAOAAeQA=</Child1>
+      </Item2>
+      <Item3>
+        <ItemName>VAByAOMeIABnAGkA+gBwAA==</ItemName>
+        <Child1>VABoAPQAbgBnACAAdABpAG4AIABjAGgAsAGhAW4AZwAgAHQAcgDsAG4AaAA=</Child1>
+      </Item3>
+    </MenuStrip>
+    <ToolStrip>
+      <btn1>TgBoAK8eYwAgAG4AaADfHg==</btn1>
+      <btn2>3QAgAHQAsAHfHm4AZwA=</btn2>
+      <btn3>TADLHmMAaAA=</btn3>
+      <btn4>EAHTHm4AZwAgAGgA0x4=</btn4>
+      <btn5>VADrHiAAEQFpAMMebgA=</btn5>
+      <btn6>WQDqAHUAIAB0AGgA7QBjAGgA</btn6>
+      <btn7>RwBoAGkAIABjAGgA+gA=</btn7>
+      <btn8>VABoAHUAIABjAGgAaQA=</btn8>
+      <btn9>SwBoAOEAYwA=</btn9>
+      <btn10>TADgAG0AIAB0ALABoQFpAA==</btn10>
+      <btn11>VAByAGEAbgBnACAAYwBoAOce</btn11>
+      <btn12>VADsAG0AIABrAGkAvx5tAA==</btn12>
+    </ToolStrip>
+  </Form>
+  <Form>
+    <Name>ZgByAG0ATwBwAHQAaQBvAG4A</Name>
+    <Text>VAD5AHkAIABjAGgAyR5uAGgA</Text>
+
+    <tab1>SADHHiAAdABoANEebgBnAA==</tab1>
+    <tab2>SABpAMMebgAgAHQAaADLHg==</tab2>
+    <tab3>VADgAGkAIABrAGgAbwCjHm4A</tab3>
+    
+    <chk1>TQDfHiAAYwD5AG4AZwAgAFcAaQBuAGQAbwB3AHMA</chk1>
+    <chk2>SAC5Hm4AIABnAGkA3R4gABEBwx4gAG0A3x4gAGMAaACwAaEBbgBnACAAdAByAOwAbgBoAA==</chk2>
+
+    <des2>TgBoAK8eYwAgAG4AaADfHiAAcwC9HiAAYwBoAKEeeQAgAGwA+gBjADoAIAA=</des2>
+
+    <gb1>TgBnAPQAbgAgAG4AZwDvHg==</gb1>
+    <gb2>RwBpAGEAbwAgAGQAaQDHHm4AIABuAGcAsAHdHmkAIABkAPkAbgBnAA==</gb2>
+
+    <cbo1>UwBhAHUAIABrAGgAaQAgAGsAaADfHmkAIAARAdkebgBnADoA</cbo1>
+    <cbo2>TgBnAPQAbgAgAG4AZwDvHiAAZwBpAGEAbwAgAGQAaQDHHm4AIABuAGcAsAHdHmkAIABkAPkAbgBnADoA</cbo2>
+    <cbo3>RwBpAGEAbwAgAGQAaQDHHm4AOgA=</cbo3>
+
+    <lbl1>TQCtHnQAIABrAGgAqR51ACAAaABpAMcebgAgAHQAoR5pADoA</lbl1>
+    <lbl2>TQCtHnQAIABrAGgAqR51ACAAbQDbHmkAOgA=</lbl2>
+    <lbl3>WADhAGMAIABuAGgArR5uACAAbQCtHnQAIABrAGgAqR51ADoA</lbl3>
+    
+    <radDaily>TQDXHmkAIABuAGcA4AB5AA==</radDaily>
+    <radWeekly>TQDXHmkAIAB0AHUApx5uAA==</radWeekly>
+    <radMonthly>TQDXHmkAIAB0AGgA4QBuAGcA</radMonthly>
+    <radOneTime>TQDZHnQAIABsAKcebgA=</radOneTime>
+
+    <totd>SABpAMcebgAgAGMA9ABuAGcAIAB2AGkAxx5jACAAdAByAG8AbgBnACAAbgBnAOAAeQA=</totd>
+    
+  </Form>
+  <Form>
+    <Name>ZgByAG0AVABhAHMAawBPAGYAVABoAGUARABhAHkA</Name>
+
+    <lbl>TgBoAK8eYwAgAG4AaADfHiAAdAByAG8AbgBnACAAbgBnAOAAeQA6ACAA</lbl>
+
+    <col1>VADqAG4A</col1>
+    <col2>TQD0ACAAdACjHg==</col2>
+    <col3>VABoAN0eaQAgAGcAaQBhAG4A</col3>
+
+    <item1>TADgAG0AIAB0ALABoQFpAA==</item1>
+    <item2>TwBuACAAVABvAHAA</item2>
+    <item3>EAHzAG4AZwA=</item3>
+  </Form>
+  <Form>
+    <Name>VQBDAF8AUgBlAGMAdQByAHIAaQBuAGcA</Name>
+
+    <gb1>RABhAG4AaAAgAHMA4QBjAGgAIABjAPQAbgBnACAAdgBpAMceYwA=</gb1>
+    <gb2>VABoAHUA2R5jACAAdADtAG4AaAA=</gb2>
+    <gb3>QwD0AG4AZwAgAHYAaQDHHmMAIAARAeMAIABoAG8A4ABuACAAdABoAOAAbgBoAA==</gb3>
+    <gb4>QwD0AG4AZwAgAHYAaQDHHmMAIAB0AHIAbwBuAGcAIABuAGcA4AB5AA==</gb4>
+
+    <lbl1>VADqAG4AIABjAHYAOgA=</lbl1>
+    <lbl2>TQD0ACAAdACjHg==</lbl2>
+    <lbl3>TgBnAOAAeQA6AA==</lbl3>
+    <lbl4>VABnADoA</lbl4>
+    <lbl5>TAC3HnAAIABsAKEeaQA6AA==</lbl5>
+    <lbl6>QgChHm4AIAARAeMAIABoAG8A4ABuACAAdABoAOAAbgBoACAAIAAgACAAIAAgAGMA9ABuAGcAIAB2AGkAxx5jAC4A</lbl6>
+    <lbl7>IAAgACAAIABCAKEebgAgAGMA8wAgACAAIAAgACAAIAAgAGMA9ABuAGcAIAB2AGkAxx5jACAAaAD0AG0AIABuAGEAeQAuAA==</lbl7>
+    
+    <btn1>TQDbHmkA</btn1>
+    <btn2>TACwAXUAIABuAGgAsAE=</btn2>
+    <btn3>WADzAGEA</btn3>
+    <btn4>TACwAXUA</btn4>
+
+    <col1>VADqAG4A</col1>
+    <col2>TQD0ACAAdACjHg==</col2>
+    <col3>TgBnAOAAeQA=</col3>
+    <col4>VABnAA==</col4>
+    <col5>TAC3HnAAIABsAKEeaQA=</col5>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ASQBkAGUAYQA=</Name>
+
+    <lbl1>RABhAG4AaAAgAFMA4QBjAGgAIADdACAAVACwAd8ebgBnAA==</lbl1>
+    <lbl2>TgBnAOAAeQA6AA==</lbl2>
+    <lbl3>VADqAG4AOgA=</lbl3>
+    <lbl4>TQD0ACAAdACjHjoA</lbl4>
+
+    <btn1>TQDbHmkA</btn1>
+    <btn2>TACwAXUAIABuAGgAsAE=</btn2>
+    <btn3>WADzAGEA</btn3>
+    <btn4>TACwAXUA</btn4>
+
+    <col1>TgBnAOAAeQA=</col1>
+    <col2>VADqAG4A</col2>
+    <col3>TQD0ACAAdACjHg==</col3>
+  </Form>
+  <Form>
+    <Name>VQBDAF8AUwBjAGgAZQBkAHUAbABlAA==</Name>
+
+    <lbl>VAByAGEAbgBnACAA</lbl>
+    
+    <btn1>QwBoAGkAIAB0AGkAvx50AA==</btn1>
+    <btn2>TQDbHmkAIAB0AOseIABjAGkB</btn2>
+    <btn3>TQDbHmkA</btn3>
+    <btn4>UwDtHmEA</btn4>
+    <btn5>WADzAGEA</btn5>
+
+    <col1>UwBUAFQA</col1>
+    <col2>RADxHiAA4QBuAA==</col2>
+    <col3>VADzAG0AIAB0AK8edAA=</col3>
+    <col4>VAD3HiAAbADHHiAAcABoAKcebgAgAHQAcgADAW0AIABjAOceYQAgAGMA9ABuAGcAIAB2AGkAxx5jAA==</col4>
+
+    <str1>VABoAN0eaQAgAGcAaQBhAG4A</str1>
+    <str2>QwD0AG4AZwAgAHYAaQDHHmMA</str2>
+  </Form>
+  <Form>
+    <Name>TgBlAHcAUwBjAGgAZQBkAHUAbABlAA==</Name>
+
+    <Detail>VABoAPQAbgBnACAAVABpAG4AIABDAGgAaQAgAFQAaQC/HnQAIABDAOceYQAgAEQA8R4gAMEAbgA=</Detail>
+    <New1>TACtHnAAIABMAMseYwBoACAATQDbHmkAIABUAOseIABMAMseYwBoACAAQwBpAQ==</New1>
+    <New2>TACtHnAAIABMAMseYwBoACAATQDbHmkA</New2>
+    <Edit>UwDtHmEAIABMAMseYwBoAA==</Edit>
+
+    <lbl1>VADqAG4AIABEAPEeIADBAG4A</lbl1>
+    <lbl2>VABoAN0eaQAgAEcAaQBhAG4AIABEAPEeIADBAG4A</lbl2>
+    <lbl3>TgBnAOAAeQAgAEIAEAE=</lbl3>
+    <lbl4>TgBnAOAAeQAgAEsAVAA=</lbl4>
+    <lbl5>VADzAG0AIABUAK8edAAgAEQA8R4gAMEAbgA=</lbl5>
+    <lbl6>VADqAG4AIABDAPQAbgBnACAAVgBpAMceYwA=</lbl6>
+    <lbl7>VABoAPQAbgBnACAAVABpAG4AIABDAPQAbgBnACAAVgBpAMceYwA=</lbl7>
+    <lbl8>JQAgAHQAcgDqAG4AIABEAPEeIADBAG4A</lbl8>
+    <lbl9>SABvAOAAbgAgAFQAaADgAG4AaAA=</lbl9>
+    <lbl10>RwBpAN0e</lbl10>
+    <lbl11>TQD0ACAAVACjHiAAQwD0AG4AZwAgAFYAaQDHHmMA</lbl11>
+    
+    <str1>VABoAN0eaQAgAGcAaQBhAG4A</str1>
+    <str2>QwD0AG4AZwAgAHYAaQDHHmMA</str2>
+
+    <col1>TgBoAGkAxx5tACAAdgDlHg==</col1>
+    <col2>VADqAG4A</col2>
+    <col3>UABoAKcebgAgAHQAcgADAW0ALwBEAPEeIADhAG4A</col3>
+    <col4>SABvAOAAbgAgAHQAaADgAG4AaAA=</col4>
+    <col5>RwBpAN0e</col5>
+  </Form>
+  <Form>
+    <Name>TgBlAHcAVABhAHMAawA=</Name>
+
+    <Detail>QwBoAGkAIABUAGkAvx50ACAATgBoAGkAxx5tACAAVgDlHg==</Detail>
+    <New>TgBoAGkAxx5tACAAVgDlHiAATQDbHmkA</New>
+    <Edit>UwDtHmEAIABOAGgAaQDHHm0AIABWAOUe</Edit>
+
+    <lbl1>VADqAG4AIABOAGgAaQDHHm0AIABWAOUe</lbl1>
+    <lbl2>UABoAKcebgAgAFQAcgADAW0AIABUAHIA6gBuACAARADxHiAAwQBuAA==</lbl2>
+    <lbl3>UABoAKcebgAgAFQAcgADAW0AIABIAG8A4ABuACAAVABoAOAAbgBoAA==</lbl3>
+    <lbl4>TQD0ACAAVACjHiAATgBoAGkAxx5tACAAVgDlHg==</lbl4>
+  </Form>
+  <Form>
+    <Name>VQBDAF8AQwBsAG8AYwBrAA==</Name>
+
+    <tab1>QgDhAG8AIAB0AGgA6R5jAA==</tab1>
+    <tab2>QgClHm0AIABnAGkA3R4=</tab2>
+    <tab3>SAC5Hm4AIABnAGkA3R4=</tab3>
+
+    <gb1>QgDhAG8AIAB0AGgA6R5jAA==</gb1>
+
+    <lbl1>RABhAG4AaAAgAFMA4QBjAGgAIABCAOEAbwAgAFQAaADpHmMA</lbl1>
+    <lbl2>VADqAG4AOgA=</lbl2>
+    <lbl3>VABoAN0eaQAgAGcAaQBhAG4AOgA=</lbl3>
+    <lbl4>TAC3HnAAIABsAKEeaQA6AA==</lbl4>
+    <lbl5>TgBoAKEeYwA6AA==</lbl5>
+    <lbl6>TAC3HnAAOgA=</lbl6>
+    <lbl7>RwBpAN0e</lbl7>
+    <lbl8>UABoAPoAdAA=</lbl8>
+
+    <col1>UwBUAFQA</col1>
+    <col2>VADqAG4A</col2>
+    <col3>TgBnAOAAeQA=</col3>
+    <col4>VABnAA==</col4>
+    <col5>TgBoAKEeYwA=</col5>
+    <col6>TAC3HnAAIABsAKEeaQA=</col6>
+    <col7>TAC3HnAA</col7>
+
+    <chk1>TQDXHmkAIABUAGgA6R4gADIA</chk1>
+    <chk2>TQDXHmkAIABUAGgA6R4gADMA</chk2>
+    <chk3>TQDXHmkAIABUAGgA6R4gADQA</chk3>
+    <chk4>TQDXHmkAIABUAGgA6R4gADUA</chk4>
+    <chk5>TQDXHmkAIABUAGgA6R4gADYA</chk5>
+    <chk6>TQDXHmkAIABUAGgA6R4gADcA</chk6>
+    <chk7>TQDXHmkAIABDAGgA5x4gAE4AaACtHnQA</chk7>
+
+    <rad1>VACvHnQA</rad1>
+    <rad2>SwBoAN8eaQAgABEB2R5uAGcAIABsAKEeaQA=</rad2>
+    <rad3>EAEDAW4AZwAgAHgAdQClHnQA</rad3>
+    <rad4>TgBnAOceIAARAfQAbgBnAA==</rad4>
+    <rad5>SwBoAPMAYQA=</rad5>
+    <rad6>TgBnAOce</rad6>
+
+    <btn1>QwBoAM0ebgAgAG4AaAChHmMA</btn1>
+    <btn2>TADgAG0AIABNANseaQA=</btn2>
+    <btn3>TACwAXUAIABOAGgAsAE=</btn3>
+    <btn4>WADzAGEA</btn4>
+    <btn5>TACwAXUA</btn5>
+    <btn6>QgCvHnQAIAARAacedQA=</btn6>
+
+    <item1>QwBoAKEeeQAgAG4AaAChHmMA</item1>
+    <item2>RADrHm4AZwAgAG4AaAChHmMA</item2>
+  </Form>
+  <Form>
+    <Name>UwBoAG8AdwBBAGwAYQByAG0A</Name>
+    <Text>UwBoAG8AdwBBAGwAYQByAG0A</Text>
+    <btn1>TAC3HnAA</btn1>
+    <btn2>EAHzAG4AZwA=</btn2>
+  </Form>
+  <Form>
+    <Name>ZgByAG0AUwBoAG8AdwBUAHUAcgBuAE8AZgBmAA==</Name>
+    <Text>UwBoAG8AdwBUAHUAcgBuAE8AZgBmAA==</Text>
+    <btn>SADnHnkAIQAhAA==</btn>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ARABpAGMAdABpAG8AbgBhAHIAeQA=</Name>
+
+    <lbl1>VADrHiAAEQFpAMMebgA=</lbl1>
+    <lbl2>VADrHiAAawBoAPMAYQA=</lbl2>
+    <lbl3>RABhAG4AaAAgAG0A5R5jACAAdADrHiAAEQFpAMMebgA=</lbl3>
+    
+    <btn1>TQDbHmkA</btn1>
+    <btn2>UwDtHmEA</btn2>
+    <btn3>WADzAGEA</btn3>
+    <btn4>TACwAXUA</btn4>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ARgBhAHYAbwByAGkAdABlAA==</Name>
+
+    <tab1>VgADAW4AIABcACAAVABoAKEB</tab1>
+    <tab2>SADsAG4AaAA=</tab2>
+    <tab3>TgBoAKEeYwA=</tab3>
+    <tab4>UABoAGkAbQA=</tab4>
+    <tab5>VACtHnAAIAB0AGkAbgA=</tab5>
+    <tab6>VABoALABIABtAOUeYwA=</tab6>
+    <tab7>VAByAGEAbgBnACAAdwBlAGIA</tab7>
+
+    <col1>UwBUAFQA</col1>
+    <col2>TgBnAOAAeQA=</col2>
+    <col3>TgDZHmkAIABkAHUAbgBnAA==</col3>
+    <col4>VADqAG4A</col4>
+    <col5>EAGwAd0ebgBnACAAZACrHm4A</col5>
+    <col6>TABvAKEeaQA=</col6>
+    <col7>SwDtAGMAaAAgAHQAaACwAdseYwA=</col7>
+    <col8>VABpAOoAdQAgABEBwR4=</col8>
+    <col9>EAHLHmEAIABjAGgAyR4=</col9>
+
+    <btn1>TADgAG0AIABNANseaQA=</btn1>
+    <btn2>TACwAXUAIABOAGgAsAE=</btn2>
+    <btn3>WADzAGEA</btn3>
+    <btn4>TACwAXUA</btn4>
+    <btn5>VABoAOoAbQA=</btn5>
+    <btn6>TgBoAOAA</btn6>
+    <btn7>VACjHmkAIABsAKEeaQA=</btn7>
+    <btn8>EAFpAA==</btn8>
+
+    <item1>UwBhAG8AIABjAGgA6QBwAA==</item1>
+    <item2>WABlAG0AIAB0AHIAsAHbHmMA</item2>
+    <item3>EAG3HnQAIABsAOAAbQAgAGgA7ABuAGgAIABuAMEebgA=</item3>
+    <item4>TQDfHiAAdABoALABIABtAOUeYwA=</item4>
+    <item5>WABvAGEAeQAgAHAAaACjHmkA</item5>
+    <item6>WABvAGEAeQAgAHQAcgDhAGkA</item6>
+    <item7>WADzAGEA</item7>
+    <item8>QgBpAMMedQAgAHQAsAHjHm4AZwAgAGwA2x5uAA==</item8>
+    <item9>QwBoAGkAIAB0AGkAvx50AA==</item9>
+    <item10>QgBpAMMedQAgAHQAsAHjHm4AZwAgAG4AaADPHg==</item10>
+    <item11>RABhAG4AaAAgAHMA4QBjAGgA</item11>
+    <item12>TADhAHQA</item12>
+    <item13>VABoAHUA2R5jACAAdADtAG4AaAA=</item13>
+    <item14>QgDsAG4AaAAgAHQAaACwAd0ebgBnAA==</item14>
+    <item15>SwDpAG8AIABnAGkA4wBuAA==</item15>
+    <item16>SwDtAGMAaAAgAHQAaACwAdseYwAgAHQA8R4gABEB2R5uAGcA</item16>
+    <item17>QwADAW4AZwAgAGcAaQDvHmEA</item17>
+    <item18>UABoAPMAbgBnAA==</item18>
+    <item19>QwCvHnQA</item19>
+    <item20>RADhAG4A</item20>
+    <item21>QwBoAM0ebgAgAHQApR50ACAAYwCjHg==</item21>
+    <item22>TQDfHiAAdABoALABIABtAOUeYwA=</item22>
+    <item23>TQDfHg==</item23>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ARgBhAHYAbwByAGkAdABlAEEAdQBkAGkAbwBzAA==</Name>
+
+    <col1>UwBUAFQA</col1>
+    <col2>VADqAG4A</col2>
+    <col3>EAGwAd0ebgBnACAAZACrHm4A</col3>
+
+    <btn1>VABoAOoAbQA=</btn1>
+    <btn2>WADzAGEA</btn2>
+
+    <item1>TQDfHiAAdABoALABIABtAOUeYwA=</item1>
+    <item2>UwBhAG8AIABjAGgA6QBwAA==</item2>
+    <item3>WADzAGEA</item3>
+    <item4>VABoAHUA2R5jACAAdADtAG4AaAA=</item4>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ARgBhAHYAbwByAGkAdABlAFYAaQBkAGUAbwBzAA==</Name>
+
+    <col1>UwBUAFQA</col1>
+    <col2>VADqAG4A</col2>
+    <col3>EAGwAd0ebgBnACAAZACrHm4A</col3>
+
+    <btn1>VABoAOoAbQA=</btn1>
+    <btn2>WADzAGEA</btn2>
+
+    <item1>TQDfHiAAdABoALABIABtAOUeYwA=</item1>
+    <item2>UwBhAG8AIABjAGgA6QBwAA==</item2>
+    <item3>WADzAGEA</item3>
+    <item4>VABoAHUA2R5jACAAdADtAG4AaAA=</item4>
+  </Form>
+  <Form>
+    <Name>VQBDAF8AUwB0AGkAYwBrAHkA</Name>
+    <Text>RwBoAGkAIABDAGgA+gA=</Text>
+
+    <lbl1>TgBnAOAAeQA=</lbl1>
+    <lbl2>SwDtAGMAaAAgAHQAaACwAdseYwA=</lbl2>
+    <lbl3>VgDLHiAAdAByAO0A</lbl3>
+    <lbl4>TQDgAHUA</lbl4>
+    <lbl5>TwBuAFQAbwBwAA==</lbl5>
+    <lbl6>SABpAMcebgA=</lbl6>
+
+    <btn1>TADgAG0AIABNANseaQA=</btn1>
+    <btn2>TACwAXUAIABOAGgAsAE=</btn2>
+    <btn3>WADzAGEA</btn3>
+    <btn4>TACwAXUA</btn4>
+
+    <col1>UwBUAFQA</col1>
+    <col2>TgBnAOAAeQA=</col2>
+    <col3>RwBoAGkAIABDAGgA+gA=</col3>
+    <col4>RADgAGkA</col4>
+    <col5>UgDZHm4AZwA=</col5>
+    <col6>VgDLHiAAdAByAO0AIABYAA==</col6>
+    <col7>VgDLHiAAdAByAO0AIABZAA==</col7>
+    <col8>TQDgAHUA</col8>
+    <col9>TwBuAFQAbwBwAA==</col9>
+    <col10>SABpAMcebgA=</col10>
+  </Form>
+  <Form>
+    <Name>ZgByAG0AUwB0AGkAYwBrAHkATgBvAHQAZQA=</Name>
+    <Text>UwB0AGkAYwBrAHkAIABOAG8AdABlAA==</Text>
+    <item1>QwCvHnQA</item1>
+    <item2>UwBhAG8AIABjAGgA6QBwAA==</item2>
+    <item3>RADhAG4A</item3>
+    <item4>WADzAGEA</item4>
+    <item5>QwBoAM0ebgAgAHQApR50ACAAYwCjHg==</item5>
+    <item6>WABhAG4AaAA=</item6>
+    <item7>SADTHm4AZwA=</item7>
+    <item8>WABhAG4AaAAgAGwA4QA=</item8>
+    <item9>VADtAG0A</item9>
+    <item10>VAByAK8ebgBnAA==</item10>
+    <item11>VgDgAG4AZwA=</item11>
+    <item12>RwBoAGkAIABjAGgA+gAgAG0A2x5pAA==</item12>
+    <item13>TwBuACAAdABvAHAA</item13>
+    <item14>WADzAGEAIABnAGgAaQAgAGMAaAD6AA==</item14>
+  </Form>
+  <Form>
+    <Name>VQBDAF8AQQBjAGMAbwB1AG4AdAA=</Name>
+    <Text>VABoAHUAIAB2AOAAIABDAGgAaQA=</Text>
+
+    <rad1>VABoAHUA</rad1>
+    <rad2>QwBoAGkA</rad2>
+    <rad3>TgBnAOAAeQA=</rad3>
+    <rad4>VAB1AKcebgA=</rad4>
+    <rad5>VABoAOEAbgBnAA==</rad5>
+    <rad6>TgADAW0A</rad6>
+
+    <lbl1>UwBUAFQA</lbl1>
+    <lbl2>TABvAKEeaQA=</lbl2>
+    <lbl3>UwDRHiAAVABpAMEebgA=</lbl3>
+    <lbl4>TgBnAOAAeQA=</lbl4>
+    <lbl5>TAD9ACAAZABvAA==</lbl5>
+    <lbl6>VABoAHUA</lbl6>
+    <lbl7>QwBoAGkA</lbl7>
+    <lbl8>VADVHm4AZwA=</lbl8>
+    
+    <btn1>TADgAG0AIABNANseaQA=</btn1>
+    <btn2>TACwAXUAIABOAGgAsAE=</btn2>
+    <btn3>WADzAGEA</btn3>
+    <btn4>TACwAXUA</btn4>
+    <btn5>VADtAG4AaAA=</btn5>
+    <btn6>VgC9HiAAYgBpAMMedQAgABEB0x4=</btn6>
+
+    <gb1>VADVHm4AZwA=</gb1>
+  </Form>
+  <Form>
+    <Name>QwBvAG4AZgBpAHIAbQBQAGEAcwBzAHcAbwByAGQA</Name>
+
+    <lbl>TQCtHnQAIABLAGgAqR51AA==</lbl>
+  </Form>
+  <Form>
+    <Name>QQBjAGMAbwB1AG4AdABDAGgAYQByAHQA</Name>
+
+    <btn1>TACwAXUAIABIAOwAbgBoAA==</btn1>
+    <btn2>EAHzAG4AZwA=</btn2>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ATwB0AGgAZQByAHMA</Name>
+
+    <tab1>VADtAG4AaAAgAHQAbwDhAG4A</tab1>
+    <tab2>VAByAPIAIABjAGgAoQFpAA==</tab2>
+    <lbl1>QwBoAHUAqR5uAA==</lbl1>
+    <lbl2>SwBoAG8AYQAgAGgAzR5jAA==</lbl2>
+    <lbl3>QwBoAHUAeQDDHm4AIAARAdUeaQA=</lbl3>
+  </Form>
+  <Form>
+    <Name>VQBDAF8ASABvAG0AZQA=</Name>
+
+    <lbl1>QwBoAOAAbwAgAG0A6x5uAGcAIAARAb8ebgAgAHYA2x5pACAAUgBlAG0AaQBuAGkAcwBjAGUAbgB0ACEA</lbl1>
+    <lbl2>QgCjHm4AIABxAHUAeQDBHm4AIACpACAAMgAwADEANAAgAE4AaADzAG0AIABOAGcAdQB5AMUebgAgAEwA6gAgAE0AaQBuAGgAIAB2AOAAIABOAGcAdQB5AMUebgAgAEgAbwDgAG4AZwAgAE4AYQBtACAATADbHnAAIABDABABVABIADEAMQBBAA==</lbl2>
+  </Form>
+  <Form>
+    <Name>ZgByAG0ARQB4AHAAbwByAHQA</Name>
+    <Text>WAB1AKUedAAgAGQA7x4gAGwAaQDHHnUA</Text>
+
+    <cbxSelectAll>VAClHnQAIABjAKMe</cbxSelectAll>
+    <cbxRecurring>TgBoAK8eYwAgAG4AaADfHg==</cbxRecurring>
+    <cbxDictionary>VADrHiAAEQFpAMMebgA=</cbxDictionary>
+    <cbxIdea>3QAgAHQAsAHfHm4AZwA=</cbxIdea>
+    <cbxFavorite>WQDqAHUAIAB0AGgA7QBjAGgA</cbxFavorite>
+    <cbxSticky>RwBoAGkAIABjAGgA+gA=</cbxSticky>
+    <cbxSchedule>TACtHnAAIABsAMseYwBoAA==</cbxSchedule>
+    <cbxArlarm>SAC5Hm4AIABnAGkA3R4=</cbxArlarm>
+    <cbxAccount>VABoAHUAIABjAGgAaQA=</cbxAccount>
+
+    <btnExport>UwBhAG8AIABsALABdQA==</btnExport>
+    <btnCancel>SADnHnkAIABiAM8e</btnCancel>
+  </Form>
+</Language>

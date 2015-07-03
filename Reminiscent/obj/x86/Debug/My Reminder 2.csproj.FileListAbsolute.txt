@@ -1,0 +1,195 @@
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\My Reminder 2.exe
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\My Reminder 2.pdb
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\CoreAudioApi.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My Reminder 2.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.ResolveComReference.cache
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmEditRecurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmIntro.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewSchedule.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewTask.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.ShowAlarm.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\Gift.ucRichText.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Account.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_CalcStandard.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Calculator.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Converter.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Dictionary.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteAudios.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteVideos.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Game.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Home.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Idea.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewAlarm.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmNewRecurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmOption.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmMain.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.Properties.Resources.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowTurnOff.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowRecurring2.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmStickyNote.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmTaskOfTheDay.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Clock.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Favorite.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Others.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Recurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Schedule.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Scientific.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Sticky.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.GenerateResource.Cache
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My Reminder 2.exe
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\x86\Debug\My Reminder 2.pdb
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.ResolveComReference.cache
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.exe
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.pdb
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\My Reminder 2.exe
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\My Reminder 2.pdb
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\CoreAudioApi.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmEditRecurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmIntro.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewSchedule.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewTask.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.ShowAlarm.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\Gift.ucRichText.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Account.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_CalcStandard.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Calculator.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Converter.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Dictionary.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteAudios.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteVideos.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Game.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Home.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Idea.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewAlarm.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmNewRecurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmOption.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmMain.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.Properties.Resources.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowTurnOff.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowRecurring2.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmStickyNote.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmTaskOfTheDay.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Clock.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Favorite.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Others.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Recurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Schedule.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Scientific.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Sticky.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.GenerateResource.Cache
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\My Reminder 2.exe
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\My Reminder 2.pdb
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\CoreAudioApi.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\Interop.WMPLib.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\bin\Debug\AxInterop.WMPLib.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.MSScriptControl.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.WMPLib.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.ResolveComReference.cache
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmEditRecurring.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmIntro.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewSchedule.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewTask.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.ShowAlarm.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\Gift.ucRichText.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Account.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_CalcStandard.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Calculator.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Converter.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Dictionary.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteAudios.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteVideos.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Game.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Home.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Idea.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewAlarm.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmNewRecurring.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmOption.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmMain.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.Properties.Resources.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowTurnOff.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowRecurring2.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmStickyNote.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmTaskOfTheDay.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Clock.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Favorite.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Others.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Recurring.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Schedule.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Scientific.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Sticky.resources
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.GenerateResource.Cache
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.exe
+E:\Do An Tot Nghiep\Tai lieu do an\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.pdb
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.MSScriptControl.dll
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\Interop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.ResolveComReference.cache
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.exe
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.pdb
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csprojResolveAssemblyReference.cache
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmEditRecurring.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmIntro.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewSchedule.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewTask.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.ShowAlarm.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\Gift.ucRichText.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Account.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_CalcStandard.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Calculator.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Converter.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Dictionary.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteAudios.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_FavoriteVideos.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Game.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Home.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Idea.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.NewAlarm.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmNewRecurring.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmOption.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmMain.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.Properties.Resources.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowTurnOff.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmShowRecurring2.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmStickyNote.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.frmTaskOfTheDay.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Clock.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Favorite.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Others.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Recurring.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Schedule.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Scientific.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My_Reminder_2.UC_Sticky.resources
+D:\My Reminder 2\My Reminder 2\obj\x86\Debug\My Reminder 2.csproj.GenerateResource.Cache
+D:\My Reminder 2\My Reminder 2\bin\Debug\My Reminder 2.exe
+D:\My Reminder 2\My Reminder 2\bin\Debug\My Reminder 2.pdb
+D:\My Reminder 2\My Reminder 2\bin\Debug\CoreAudioApi.dll
+D:\My Reminder 2\My Reminder 2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\bin\Debug\Interop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\bin\Debug\AxInterop.WMPLib.dll

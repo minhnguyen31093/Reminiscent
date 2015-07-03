@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sticky>
+  <Notes>
+    <ID>2</ID>
+    <Date>18/07/2014</Date>
+    <Text>quet nha</Text>
+    <Width>180</Width>
+    <Height>120</Height>
+    <LocationX>0</LocationX>
+    <LocationY>0</LocationY>
+    <Color>Yellow</Color>
+    <OnTop>No</OnTop>
+    <Show>No</Show>
+  </Notes>
+  <Notes>
+    <ID>3</ID>
+    <Date>18/07/2014</Date>
+    <Text>di lam</Text>
+    <Width>180</Width>
+    <Height>120</Height>
+    <LocationX>0</LocationX>
+    <LocationY>0</LocationY>
+    <Color>Yellow</Color>
+    <OnTop>No</OnTop>
+    <Show>No</Show>
+  </Notes>
+  <Notes>
+    <ID>4</ID>
+    <Date>18/07/2014</Date>
+    <Text>hoc ngoai ngu</Text>
+    <Width>180</Width>
+    <Height>120</Height>
+    <LocationX>0</LocationX>
+    <LocationY>0</LocationY>
+    <Color>Yellow</Color>
+    <OnTop>No</OnTop>
+    <Show>No</Show>
+  </Notes>
+  <Notes>
+    <ID>0</ID>
+    <Date>19/07/2014</Date>
+    <Text>hoc bai thi</Text>
+    <Width>180</Width>
+    <Height>120</Height>
+    <LocationX>0</LocationX>
+    <LocationY>0</LocationY>
+    <Color>Yellow</Color>
+    <OnTop>No</OnTop>
+    <Show>No</Show>
+  </Notes>
+  <Notes>
+    <ID>1</ID>
+    <Date>24/07/2014</Date>
+    <Text>giai tri</Text>
+    <Width>180</Width>
+    <Height>120</Height>
+    <LocationX>1113</LocationX>
+    <LocationY>7</LocationY>
+    <Color>Yellow</Color>
+    <OnTop>No</OnTop>
+    <Show>No</Show>
+  </Notes>
+  <Notes>
+    <ID>5</ID>
+    <Date>24/07/2014</Date>
+    <Text>tap the duc</Text>
+    <Width>303</Width>
+    <Height>224</Height>
+    <LocationX>1065</LocationX>
+    <LocationY>513</LocationY>
+    <Color>Blue</Color>
+    <OnTop>No</OnTop>
+    <Show>No</Show>
+  </Notes>
+</Sticky>

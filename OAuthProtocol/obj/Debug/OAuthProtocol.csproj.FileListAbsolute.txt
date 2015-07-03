@@ -1,0 +1,12 @@
+C:\Users\Little Pisces\Desktop\DropboxPart5\OAuthProtocol\bin\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\DropboxPart5\OAuthProtocol\bin\Debug\OAuthProtocol.pdb
+C:\Users\Little Pisces\Desktop\DropboxPart5\OAuthProtocol\obj\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\DropboxPart5\OAuthProtocol\obj\Debug\OAuthProtocol.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\OAuthProtocol\bin\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\OAuthProtocol\bin\Debug\OAuthProtocol.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\OAuthProtocol\obj\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\OAuthProtocol\obj\Debug\OAuthProtocol.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\bin\Debug\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\bin\Debug\OAuthProtocol.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\obj\Debug\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\obj\Debug\OAuthProtocol.pdb

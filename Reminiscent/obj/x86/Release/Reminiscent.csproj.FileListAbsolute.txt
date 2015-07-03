@@ -1,0 +1,216 @@
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\Reminiscent.exe
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\Reminiscent.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\CoreAudioApi.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Interop.MSScriptControl.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.ResolveComReference.cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmEditRecurring.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmIntro.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewSchedule.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewTask.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ShowAlarm.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Gift.ucRichText.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Account.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_CalcStandard.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Calculator.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Converter.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Dictionary.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteAudios.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteVideos.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Game.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Home.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Idea.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewAlarm.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmNewRecurring.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmOption.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmMain.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.Properties.Resources.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowTurnOff.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowRecurring2.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmStickyNote.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmTaskOfTheDay.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Clock.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Favorite.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Others.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Recurring.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Schedule.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Scientific.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Sticky.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.GenerateResource.Cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.exe
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.AccountChart.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ConfirmPassword.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\Reminiscent.exe
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\Reminiscent.pdb
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\CoreAudioApi.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\RichTextBoxEx.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\Interop.ShockwaveFlashObjects.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\Interop.WMPLib.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\bin\Release\AxInterop.WMPLib.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csprojResolveAssemblyReference.cache
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.MSScriptControl.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.WMPLib.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.WMPLib.dll
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.ResolveComReference.cache
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.AccountChart.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ConfirmPassword.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmEditRecurring.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmIntro.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewSchedule.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewTask.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ShowAlarm.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Gift.ucRichText.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Account.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_CalcStandard.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Calculator.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Converter.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Dictionary.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteAudios.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteVideos.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Game.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Home.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Idea.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewAlarm.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmNewRecurring.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmOption.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmMain.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.Properties.Resources.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowTurnOff.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowRecurring2.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmStickyNote.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmTaskOfTheDay.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Clock.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Favorite.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Others.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Recurring.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Schedule.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Scientific.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Sticky.resources
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.GenerateResource.Cache
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.exe
+F:\Do An Tot Nghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.pdb
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Reminiscent.exe
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Reminiscent.pdb
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\CoreAudioApi.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\icsharpcode.sharpziplib.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Interop.ShockwaveFlashObjects.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Interop.WMPLib.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\AxInterop.WMPLib.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.MSScriptControl.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.WMPLib.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.WMPLib.dll
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.ResolveComReference.cache
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.AccountChart.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ConfirmPassword.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmEditRecurring.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmExport.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmIntro.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewSchedule.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewTask.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ShowAlarm.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Gift.ucRichText.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Account.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_CalcStandard.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Calculator.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Converter.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Dictionary.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteAudios.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteVideos.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Game.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Home.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Idea.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewAlarm.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmNewRecurring.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmOption.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmMain.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.Properties.Resources.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowTurnOff.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowRecurring2.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmStickyNote.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmTaskOfTheDay.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Clock.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Favorite.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Others.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Recurring.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Schedule.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Scientific.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Sticky.resources
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.GenerateResource.Cache
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.exe
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.pdb
+F:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\Interop.MSScriptControl.dll
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.ResolveComReference.cache
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.exe
+C:\Users\Little Pisces\Desktop\Final\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Reminiscent.exe
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Reminiscent.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\CoreAudioApi.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\icsharpcode.sharpziplib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Interop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\Interop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Release\AxInterop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.MSScriptControl.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Interop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\AxInterop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.ResolveComReference.cache
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.AccountChart.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ConfirmPassword.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmEditRecurring.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmExport.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmIntro.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewSchedule.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewTask.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.ShowAlarm.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Gift.ucRichText.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Account.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_CalcStandard.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Calculator.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Converter.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Dictionary.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteAudios.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_FavoriteVideos.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Game.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Home.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Idea.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.NewAlarm.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmNewRecurring.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmOption.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmMain.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.Properties.Resources.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowTurnOff.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmShowRecurring2.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmStickyNote.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.frmTaskOfTheDay.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Clock.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Favorite.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Others.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Recurring.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Schedule.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Scientific.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.UC_Sticky.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.csproj.GenerateResource.Cache
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.exe
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\x86\Release\Reminiscent.pdb

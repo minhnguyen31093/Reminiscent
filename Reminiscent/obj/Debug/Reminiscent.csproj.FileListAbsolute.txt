@@ -1,0 +1,119 @@
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Reminiscent.exe.config
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Reminiscent.exe
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Reminiscent.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\CoreAudioApi.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Dropbox.Api.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Dropbox.Api.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\OAuthProtocol.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.csproj.ResolveComReference.cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.AccountChart.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.ConfirmPassword.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmEditRecurring.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmExport.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmIntro.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.NewSchedule.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.NewTask.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.ShowAlarm.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Gift.ucRichText.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Account.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_CalcStandard.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Calculator.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Converter.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Dictionary.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_FavoriteAudios.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_FavoriteVideos.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Game.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Home.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Idea.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.NewAlarm.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmNewRecurring.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmOption.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmMain.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.Properties.Resources.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmShowTurnOff.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmShowRecurring2.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmStickyNote.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmTaskOfTheDay.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Clock.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Favorite.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Others.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Recurring.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Schedule.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Scientific.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Sticky.resources
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.csproj.GenerateResource.Cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.exe
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Reminiscent.exe.config
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Interop.MSScriptControl.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Interop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\AxInterop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.csproj.ResolveComReference.cache
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.exe
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Reminiscent.exe
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Reminiscent.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\CoreAudioApi.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Dropbox.Api.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\icsharpcode.sharpziplib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Newtonsoft.Json.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Dropbox.Api.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\OAuthProtocol.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\Interop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\bin\Debug\AxInterop.WMPLib.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.csprojResolveAssemblyReference.cache
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.AccountChart.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.ConfirmPassword.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmEditRecurring.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmExport.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmIntro.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.NewSchedule.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.NewTask.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.ShowAlarm.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Gift.ucRichText.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Account.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_CalcStandard.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Calculator.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Converter.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Dictionary.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_FavoriteAudios.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_FavoriteVideos.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Game.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Home.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Idea.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.NewAlarm.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmNewRecurring.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmOption.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmMain.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.Properties.Resources.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmShowTurnOff.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmShowRecurring2.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmStickyNote.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.frmTaskOfTheDay.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Clock.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Favorite.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Others.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Recurring.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Schedule.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Scientific.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.UC_Sticky.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.csproj.GenerateResource.Cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Reminiscent\obj\Debug\Reminiscent.Calendar.resources
+E:\DoAnTotNghiep\Source\Reminiscent\Reminiscent\obj\Debug\Reminiscent.Calendar.resources

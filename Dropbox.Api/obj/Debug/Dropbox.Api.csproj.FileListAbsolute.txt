@@ -1,0 +1,24 @@
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Little Pisces\Desktop\DropboxPart5\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Little Pisces\Desktop\Reminiscent\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\obj\Debug\Dropbox.Api.pdb

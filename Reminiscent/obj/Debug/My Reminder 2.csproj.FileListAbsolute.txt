@@ -1,0 +1,39 @@
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My Reminder 2.csproj.ResolveComReference.cache
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My Reminder 2.csprojResolveAssemblyReference.cache
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmEditRecurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmIntro.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.NewSchedule.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.ShowAlarm.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\Gift.ucRichText.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Account.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_CalcStandard.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Calculator.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Converter.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_FavoriteAudios.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_FavoriteVideos.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Game.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Home.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Idea.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.NewAlarm.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmNewRecurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmOption.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmMain.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.Properties.Resources.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmShowTurnOff.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmShowRecurring2.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmStickyNote.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.frmTaskOfTheDay.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Clock.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Dictionary.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Favorite.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Others.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Recurring.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Schedule.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Scientific.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My_Reminder_2.UC_Sticky.resources
+C:\Users\Little Pisces\Desktop\My Reminder 2_new\My Reminder 2\obj\Debug\My Reminder 2.csproj.GenerateResource.Cache

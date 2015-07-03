@@ -1,0 +1,4 @@
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\bin\Release\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\bin\Release\OAuthProtocol.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\obj\Release\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\OAuthProtocol\obj\Release\OAuthProtocol.pdb

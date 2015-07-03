@@ -1,0 +1,7 @@
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\obj\Release\Dropbox.Api.csprojResolveAssemblyReference.cache
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Release\Dropbox.Api.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Release\Dropbox.Api.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Release\OAuthProtocol.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\bin\Release\OAuthProtocol.pdb
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\obj\Release\Dropbox.Api.dll
+E:\DoAnTotNghiep\Source\Reminiscent\Dropbox.Api\obj\Release\Dropbox.Api.pdb

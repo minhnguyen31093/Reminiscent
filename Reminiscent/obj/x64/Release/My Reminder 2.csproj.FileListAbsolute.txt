@@ -1,0 +1,50 @@
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\Interop.MSScriptControl.dll
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\Interop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\Interop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\AxInterop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My Reminder 2.csproj.ResolveComReference.cache
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\My Reminder 2.exe
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\My Reminder 2.pdb
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\CoreAudioApi.dll
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\RichTextBoxEx.dll
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\Interop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\Interop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\My Reminder 2\My Reminder 2\bin\x64\Release\AxInterop.WMPLib.dll
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My Reminder 2.csprojResolveAssemblyReference.cache
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmEditRecurring.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmIntro.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.NewSchedule.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.NewTask.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.ShowAlarm.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\Gift.ucRichText.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Account.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_CalcStandard.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Calculator.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Converter.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Dictionary.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_FavoriteAudios.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_FavoriteVideos.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Game.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Home.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Idea.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.NewAlarm.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmNewRecurring.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmOption.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmMain.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.Properties.Resources.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmShowTurnOff.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmShowRecurring2.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmStickyNote.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.frmTaskOfTheDay.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Clock.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Favorite.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Others.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Recurring.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Schedule.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Scientific.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My_Reminder_2.UC_Sticky.resources
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My Reminder 2.csproj.GenerateResource.Cache
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My Reminder 2.exe
+D:\My Reminder 2\My Reminder 2\obj\x64\Release\My Reminder 2.pdb
